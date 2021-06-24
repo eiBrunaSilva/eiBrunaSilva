@@ -1,7 +1,7 @@
 <!-- About me -->
 ### Hey Guys, I'm Bruna! How are you? 😊
 
-** Computer Technician Course Student | Front-End Developer 
+**Computer Technician Course Student | Front-End Developer** 
 
 Hey, I'm a Brazilian girl, I'm 18 years old, I study at the techical school Federal Institute Of Education, Science and Technology Sul-rio-grandense in the city of Sapucaia do Sul. I'm looking for oppurtunites and I'm ready to move to the next level.
 
