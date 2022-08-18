@@ -43,16 +43,13 @@ Hi, my name is Bruna, I'm 19 years old, I graduated in Computer Science at the f
 **Social Media:**
 
 <a target="_blank" href="https://www.linkedin.com/in/bruna-nunes-silva/" />
-  <img align="left" alt="LinkdeIN" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5551981380674">
   <img align="left" alt="Whatsapp" width="22px" src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" />
 </a>
 <a target="_blank" href="https://www.instagram.com/eibrunasilvaa/">
   <img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" />
-</a>
-<a target="_blank" href="mailto:silvabruna.email@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
 </a>
 <a target="_blank" href="https://www.facebook.com/brunaSilva2304/">
   <img align="left" alt="Facebook" width="22px" src="http://fiqueisemcracha.com.br/wp-content/uploads/2016/11/meu-icone-do-facebook-c%C3%B3pia.png"/>
