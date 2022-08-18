@@ -1,9 +1,9 @@
 <!-- About me -->
 ### Hey Guys, I'm Bruna! How are you? 😊
 
-**Computer Technician Course Student | Front-End Developer** 
+**Computer Technician Course Student | Front-End Developer | Designer UX/UI** 
 
-Hey, I'm a Brazilian girl, I'm 18 years old, I study at the techical school Federal Institute Of Education, Science and Technology Sul-rio-grandense in the city of Sapucaia do Sul. I'm looking for oppurtunites and I'm ready to move to the next level.
+Hi, my name is Bruna, I'm 19 years old, I graduated in Computer Science at the federal institute of science, education and technology sul-rio-grandense campus sapucaia do sul and I'm currently studying systems analysis and development at Uniritter. 
 
 
 
@@ -11,6 +11,7 @@ Hey, I'm a Brazilian girl, I'm 18 years old, I study at the techical school Fede
 - 🤝 I'm good at working as a team and I have no problem taking a leadership position.
 - ⏲️ I'm a very punctual.
 - 🍀 I’m a organized person.
+- 💡 I'm a very creative person.
 - 👁️ I'm currently looking for an internship opportunity
 
 -----------
